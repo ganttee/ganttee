@@ -1,3 +1,4 @@
+![](https://github.com/ganttee/ganttee/blob/main/code.png)
 ### Hi there 👋
 
 <!--
